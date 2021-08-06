@@ -1,3 +1,3 @@
 # another-test
 
-Some typoed tset text.
+Some typoed test text.
